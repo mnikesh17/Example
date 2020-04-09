@@ -3,6 +3,7 @@ package com.example.lol;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void mom() {
-
+        Log.i("TAG", "mom: fk");
     }
 }
