@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void mom() {
-        Log.i("TAG", "mom: ");
+        Log.e("TAG", "mom: ");
     }
 }
